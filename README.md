@@ -58,4 +58,4 @@ npm run dev
 cd server
 npm run seed
 ```
-mew updaete
+mew update
